@@ -5,7 +5,7 @@
 
 ---
 
-> "Dirijo las áreas comerciales de negocios que están escalando a 30.000 dólares por mes, y vivo con mi equipo en una casa de un millón de dólares.
+> "Dirijo las áreas comerciales de negocios que están escalando a 30.000 dólares por mes.
 > Tengo 18 años y me llamo Valentino.
 > Esta es exactamente la historia de cómo llegué hasta acá.
 >
@@ -35,6 +35,5 @@
 
 ## Notas de grabación
 - Texto en pantalla en cada salto de edad, con la cifra: **"15 años · 800 USD/mes"**, **"17 · vivo solo"**, **"18k USD en un mes"**, **"agosto · casi 0"**, **"este año · +1M USD vendido"**.
-- B-roll: tu escritorio a los 15 (si tenés fotos viejas, mejor), el colegio, la casa.
+- B-roll: tu escritorio a los 15 (si tenés fotos viejas, mejor), el colegio, tu equipo trabajando.
 - La frase de autoimagen va con un plano más cerrado y un silencio después: es el momento emocional del video.
-- La casa es alquilada: por eso dice "vivo con mi equipo en", no "tengo".
