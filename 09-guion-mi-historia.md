@@ -1,8 +1,7 @@
 # Guion: "Mi historia" (estructura del video de Roy Lee)
 
 > Reel a cámara de 1:30 a 2:00 minutos. Estructura: presente que impacta → "así llegué" → línea de tiempo por edades con una cifra en cada paso → caída → aprendizaje → éxito → moraleja.
-> **[Corchetes]** = datos que faltan (ver las preguntas al final). Todo lo demás sale de tu estrategia.
-> Es un borrador: el orden de algunos hechos lo tenés que confirmar vos.
+> Falta un solo dato: **[tu frase de autoimagen]**.
 
 ---
 
@@ -10,41 +9,32 @@
 > Tengo 18 años y me llamo Valentino.
 > Esta es exactamente la historia de cómo llegué hasta acá.
 >
-> A los 15 empecé editando videos. [Cobraba X por video.] Pero nunca gané demasiada plata.
+> A los 15 empecé editando videos y después escribiendo guiones. En mi mejor mes llegué a 800 dólares.
 >
-> Después pasé a escribir guiones, [y ahí llegué a ganar X por mes].
+> A los 16 tenía tanto trabajo encima que me saturé y casi dejo todo.
+> Pero ese momento de estrés me cambió algo que repito hasta hoy: [tu frase de autoimagen].
 >
-> A los [X] años me pasé a ventas, [cómo pasó: quién te dio la oportunidad]. [Mi primer mes cerré X.]
->
-> A los 16 tenía tanto trabajo encima que me saturé y casi dejo todo. [Qué hiciste en ese momento, en una línea.]
->
+> Entre los 16 y los 17 me pasé a ventas.
 > A los 17 me fui a vivir solo, bancándome con lo que vendía.
 >
 > Y después llegó el mes que me cambió todo: cerré 18.000 dólares en ventas mientras iba al colegio todos los días.
-> [Qué hiciste con esa plata.]
+> Y en vez de gastármelos, los reinvertí en el negocio y en consultorías para seguir mejorando.
 >
-> Pero en agosto pasé de facturar 15.000 por mes a casi cero.
-> [Qué pasó y cómo te sentiste, en 2 líneas.]
+> En agosto, el negocio en el que estaba cerró, y pasé de facturar 15.000 por mes a casi cero.
+> ¿Y sabés qué? No me sentí mal. Porque ya venía armando el plan para salir.
 >
-> Fue ahí cuando entendí [la lección: que un vendedor solo no escala, que hace falta un sistema y alguien que lo dirija].
-> Invertí más de 15.000 dólares en cursos y consultorías, y empecé a armar y dirigir equipos de venta.
+> Ahí entendí la regla que uso hasta hoy: tener un plan B para cada traba que te pueda aparecer.
 >
-> Le vendí a un presidente. Trabajé en más de 10 nichos distintos. Y en un año vendimos más de un millón de dólares.
+> Hoy dirijo equipos de venta. Le vendí a un presidente. Trabajé en más de 10 nichos distintos.
+> Y este año vendimos más de un millón de dólares.
 >
-> Nunca fue tan fácil empezar un negocio por internet como ahora. Lo difícil es venderlo.
-> Así que aprendé a vender, aunque los primeros meses te dejen cero.
-> Porque solo tenés que aprender a vender una vez. Después, te sirve para todo lo que hagas."
+> Vas a tener meses en cero. Eso no lo podés evitar.
+> Lo que sí podés elegir es tener el próximo paso armado antes de que se te caiga el actual."
 
 ---
 
-## Lo que falta
-1. ¿Cuánto cobrabas editando (por video o por mes)?
-2. ¿Cuánto ganabas con los guiones?
-3. ¿A qué edad pasaste a ventas, cómo pasó y cuánto cerraste el primer mes?
-4. A los 16, cuando casi dejás todo: ¿qué hiciste para salir?
-5. ¿Qué hiciste con la plata del mes de los 18k?
-6. **El orden:** ¿el mes de 18k fue antes o después de la caída de agosto? ¿Y el millón vendido, en qué año?
-7. Agosto: ¿qué pasó para caer a casi cero y cómo te sentiste?
-8. ¿Cuál fue la lección de esa caída, con tus palabras?
-9. La casa: tu estrategia dice que es **alquilada**. Por eso el guion dice "vivo en", no "tengo". ¿Lo dejamos así?
-10. ¿Te cierra la moraleja de "solo tenés que aprender a vender una vez"?
+## Notas de grabación
+- Texto en pantalla en cada salto de edad, con la cifra: **"15 años · 800 USD/mes"**, **"17 · vivo solo"**, **"18k USD en un mes"**, **"agosto · casi 0"**, **"este año · +1M USD vendido"**.
+- B-roll: tu escritorio a los 15 (si tenés fotos viejas, mejor), el colegio, la casa.
+- La frase de autoimagen va con un plano más cerrado y un silencio después: es el momento emocional del video.
+- La casa es alquilada: por eso dice "vivo con mi equipo en", no "tengo".
